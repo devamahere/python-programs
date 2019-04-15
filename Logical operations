@@ -1,0 +1,7 @@
+x = int(input("Enter number 1: "))
+y = int(input("Enter number 2: "))
+z = int(input("Enter number 3: "))
+print(x<y<z)
+print(x>y>z)
+print(x<y and y<z)
+print(x<y or y<z)
